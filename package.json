@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Portfolio website made using nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chandrakumarreddy/portfoilo-website.git"
+  },
+  "keywords": [
+    "portfolio",
+    "nextjs",
+    "react"
+  ],
+  "author": "chandrapenugonda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chandrakumarreddy/portfoilo-website/issues"
+  },
+  "homepage": "https://github.com/chandrakumarreddy/portfoilo-website#readme",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
