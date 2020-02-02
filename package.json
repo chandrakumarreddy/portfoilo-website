@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/chandrakumarreddy/portfoilo-website#readme",
   "dependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1",
     "next": "^9.2.1",
+    "nprogress": "^0.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }

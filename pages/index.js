@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Layout from "../components/layout";
 
-export default function index() {
+export default function Index() {
   return (
     <Layout title="Home page">
       <p>Welcome to javascrit world</p>
