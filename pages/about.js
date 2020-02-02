@@ -5,9 +5,6 @@ export default function About() {
   return (
     <Layout title="About page">
       <p>About us</p>
-      <Link href="/">
-        <a>home</a>
-      </Link>
     </Layout>
   );
 }

@@ -30,6 +30,9 @@ export default function layout({ children, title, footer = true }) {
         <Link href="/">
           <a>Home</a>
         </Link>
+        <Link href="/blog">
+          <a>Blog</a>
+        </Link>
         <Link href="/about">
           <a>About</a>
         </Link>
@@ -68,6 +71,9 @@ export default function layout({ children, title, footer = true }) {
           }
           footer {
             padding: 1rem;
+          }
+          .content: {
+            margin: 0 4rem;
           }
         `}
       </style>
